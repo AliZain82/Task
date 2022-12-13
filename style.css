@@ -1,0 +1,57 @@
+#a12 {
+    background-repeat: no-repeat;
+    width: fit-content;
+}
+
+
+label {
+    color: bisque;
+    outline-color: aqua;
+    text-align: right;
+}
+
+h1 {
+    color: aqua;
+    outline-color: blueviolet;
+}
+
+#a10 {
+    color: antiquewhite;
+}
+
+p {
+    color: antiquewhite;
+    shape-outside: -moz-linear-gradient();
+    font-style: oblique;
+}
+
+#a13 {
+    color: chartreuse;
+    font-style: unset;
+    font-size: medium;
+}
+
+#a15 {
+    color: black;
+}
+
+#g12 {
+    color: brown;
+    outline-color: aqua;
+    outline-style: outset;
+}
+
+#g18 {
+    color: chartreuse;
+    outline-color: darkgoldenrod;
+    stroke: aqua;
+    outline-width: 8mm;
+}
+
+#g29 {
+    color: black;
+    outline-color: blue;
+    outline-width: medium;
+    stroke: aqua;
+    stroke-linecap: round;
+}
